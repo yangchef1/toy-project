@@ -83,8 +83,8 @@ CORS_ALLOWED_ORIGINS = [
     "http://127.0.0.1:3000",
     "http://localhost:5500",
     "http://127.0.0.1:5500",
-    "http://mingle-test.kro.kr/week8-assignment",
-    "https://mingle-test.kro.kr/week8-assignment",
+    "http://mingle-test.kro.kr",
+    "https://mingle-test.kro.kr",
 ]
 
 ROOT_URLCONF = 'config.urls'
